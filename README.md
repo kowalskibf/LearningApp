@@ -16,10 +16,6 @@ pip install djoser
 pip install django-rest-authtoken
 ```
 
-
-Install NodeJS and npm
-https://nodejs.org/en/
-
 1. In folder backend type:
 ```
 python manage.py makemigrations
@@ -30,5 +26,5 @@ python manage.py runserver
 
 ```
 npm install
-npm start
+npm run dev
 ```
