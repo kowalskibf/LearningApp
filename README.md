@@ -6,6 +6,9 @@ Project done in a three-person team.
 
 I did not make frontend (in context of how the sites look), only did the backend and frontend in context of functionality.
 
+Backend: Django
+Frontend: React
+
 Installation guide
 
 ```
